@@ -1,0 +1,7 @@
+{
+  "eslint.packageManager": "npm",
+  "eslint.nodePath": "/home/ben/.nvm/versions/node/v16.9.1/bin/node",
+  "workspace.workspaceFolderCheckCwd": false,
+  "tsserver.tsdk": "/home/ben/.nvm/versions/node/v16.9.1/lib/node_modules/typescript/lib",
+  "tsserver.npm": "/home/ben/.nvm/versions/node/v16.9.1/bin/npm"
+}
